@@ -1,6 +1,6 @@
 # Exercise - understanding MLOps using GitHub Actions
 
-## CHANGE TO TEST THE GITHUB ACTIONS WHEN DOING A PULLREQUEST 
+## CHANGE TO TEST THE GITHUB ACTIONS WHEN DOING A PULLREQUEST 2
 
 ## Requirements
 
